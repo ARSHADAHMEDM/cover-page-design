@@ -131,6 +131,6 @@ Add images and other contents using CSS record a screenshot of it.
 ```
 
 ### Output:
-![OUTPUT](./out.png)
+![55](https://github.com/ARSHADAHMEDM/cover-page-design/assets/128116503/baffdde5-f5e1-4007-871b-63b2af3a732b)
 ### Result
 The program for designing book cover page using HTML and CSS is executed successfully
