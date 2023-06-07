@@ -11,7 +11,7 @@ Create a static file directory and mention the changes in settings.
 Write down the code for book cover using HTML and CSS.
 ### Step 4:
 Add images and other contents using CSS record a screenshot of it.
-## Code:
+### Code:
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -132,5 +132,5 @@ Add images and other contents using CSS record a screenshot of it.
 
 ### Output:
 ![OUTPUT](./out.png)
-## Result
+### Result
 The program for designing book cover page using HTML and CSS is executed successfully
